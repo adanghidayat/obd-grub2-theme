@@ -1,0 +1,10 @@
+Package: obd-grub2-theme
+Version: 1.0.2ubuntu4
+Architecture: all
+Maintainer: Adang Hidayat <adang@okusi.net>
+Installed-Size: 82
+Depends: grub-pc
+Section: optional
+Priority: misc
+Description: Grub2 Theme for Okusi Business Desktop
+ Grub2 Theme for Okusi Business Desktop

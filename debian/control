@@ -1,0 +1,12 @@
+Source: obd-grub2-theme
+Section: optional
+Priority: misc
+Maintainer: Adang Hidayat <adang@okusi.net>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+
+Package: obd-grub2-theme
+Depends: grub-pc
+Architecture: all
+Description: Grub2 Theme for Okusi Business Desktop
+ Grub2 Theme for Okusi Business Desktop

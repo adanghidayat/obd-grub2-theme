@@ -1,0 +1,17 @@
+obd-grub2-theme (1.0.2ubuntu4) precise; urgency=low
+
+  * change image for obd-grub2-theme 
+
+ -- Adang Hidayat <adang@okusi.net>  Mon, 15 Jul 2013 15:35:58 +0700
+
+obd-grub2-theme (1.0.2ubuntu3) precise; urgency=low
+
+  * replace image bg
+
+ -- Adang Hidayat <adang@okusi.net>  Mon, 15 Jul 2013 15:23:51 +0700
+
+obd-grub2-theme (1.0.2ubuntu2) precise; urgency=low
+
+  *  initial release
+
+ -- Adang Hidayat <adang@OBD64>  Mon, 15 Jul 2013 15:05:12 +0700
